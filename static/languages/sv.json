@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur hög är andelen helt ekologiska gårdar i EU27?",
+  "subtitle": "År 2020 var 2,7 % av alla gårdar i EU27 helt ekologiska. Mellan 2010 och 2020 fördubblades antalet.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Helt ekologiska gårdar tenderar att vara större än sina icke-ekologiska motsvarigheter.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av det totala antalet gårdar",
   "tooltipExtraInfoLabel": "Klicka här"
 }
