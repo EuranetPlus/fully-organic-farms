@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mare este ponderea fermelor complet organice în UE-27?",
+  "subtitle": "Începând cu 2020, 2,7% din totalul fermelor din UE-27 erau complet organice. Între 2010 și 2020, numărul s-a dublat.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Fermele complet organice tind să fie mai mari decât omologii lor neorganici.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "din totalul fermelor",
   "tooltipExtraInfoLabel": "Click aici"
 }
