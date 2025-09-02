@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How high is the share of fully organic farms in the EU27?",
+  "subtitle": "As of 2020 2.7% of all farms in the EU27 are fully organic. Between 2010 and 2020 the number doubled.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Fully organic farms tend to be bigger than their non-organic counterparts.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of total farms",
   "tooltipExtraInfoLabel": "Click here"
 }
