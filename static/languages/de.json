@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie hoch ist der Anteil rein ökologisch wirtschaftender Betriebe in der EU27?",
+  "subtitle": "Im Jahr 2020 wirtschafteten 2,7 % aller landwirtschaftlichen Betriebe in der EU27 vollständig biologisch. Zwischen 2010 und 2020 hat sich diese Zahl verdoppelt.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Vollständig biologisch wirtschaftende Betriebe sind in der Regel größer als ihre nicht biologisch wirtschaftenden Pendants.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "der gesamten landwirtschaftlichen Betriebe",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
