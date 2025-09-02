@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh hard is atá sciar na bhfeirmeacha lán-orgánacha san AE27?",
+  "subtitle": "Ó 2020 i leith, bhí 2.7% de na feirmeacha uile san AE27 lán-orgánach. Idir 2010 agus 2020, dhúblaigh an líon sin.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is gnách go mbíonn feirmeacha lán-orgánacha níos mó ná a gcomhghleacaithe neamhorgánacha.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "de na feirmeacha iomlána",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
