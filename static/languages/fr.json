@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est la part des exploitations entièrement biologiques dans l’UE27 ?",
+  "subtitle": "En 2020, 2,7 % des exploitations agricoles de l'UE-27 étaient entièrement biologiques. Entre 2010 et 2020, ce chiffre a doublé.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les fermes entièrement biologiques ont tendance à être plus grandes que leurs homologues non biologiques.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "du total des exploitations agricoles",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
